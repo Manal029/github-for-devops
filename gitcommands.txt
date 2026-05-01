@@ -5,7 +5,7 @@
    5 python testing.py                                                                                                         
    6 python testing.py                                                                                                         
    7 ls -l testing.py                                                                                                          
-   8 ls testing.py                                                                                                             
+   8 ls testing.py           ///                                                                                                  
    9 ls -la testing.py                                                                                                         
   10 ls -ll testing.py                                                                                                         
   11 ls -l testing.py                                                                                                          
