@@ -1,1 +1,1 @@
-print ("hello duniya")
+print ("naresh bol raha he galti se a gai")
